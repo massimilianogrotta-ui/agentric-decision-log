@@ -27,7 +27,7 @@ def main():
     parser.add_argument("--context", required=True)
     parser.add_argument("--decision", required=True)
     parser.add_argument("--agents", default="hermes,max")
-    parser.add_argument("--type", default="decision", choices=["decision", "post-mortem", "procedure"])
+    parser.add_argument("--type", default="decision", choices=["decision", "post-mortem", "procedure", "idea"])
     args = parser.parse_args()
 
     today = date.today()
