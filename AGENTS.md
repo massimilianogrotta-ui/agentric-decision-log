@@ -85,3 +85,22 @@ Cosa succede ora.
 - Non cancellare mai file — usa `status: deprecated` se una decisione è superata
 - Un file = una decisione/idea
 - La cronologia git è la fonte di verità
+
+## Nota su Obsidian
+
+Max sincronizza questo repo con il suo vault Obsidian per avere le decisioni sempre sotto mano. Ma la **fonte di verità** è GitHub — non Obsidian.
+
+Se sei un agente:
+- Scrivi sempre su GitHub (commit + push)
+- Non preoccuparti di Obsidian
+- Max vedrà le modifiche nel suo vault dopo la sincronizzazione
+
+
+## Nota su Obsidian
+
+Max sincronizza questo repo con il suo vault Obsidian per avere le decisioni sempre sotto mano. Ma la **fonte di verita'** e' GitHub — non Obsidian.
+
+Se sei un agente:
+- Scrivi sempre su GitHub (commit + push)
+- Non preoccuparti di Obsidian
+- Max vedra' le modifiche nel suo vault dopo la sincronizzazione
